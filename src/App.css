@@ -20,9 +20,7 @@ body{
 
 .count{
     font-size: 50px;
-    padding: 0px 110px
-    
-    
+    padding: 0px 110px;
 }
 
 .age{
@@ -35,6 +33,7 @@ body{
     font-size: 16px;
     position: relative;
     left: 50px;
+    bottom:40px;
 }
 
 .sage{
@@ -46,6 +45,20 @@ body{
     cursor: pointer;
     font-size: 16px;
     position: relative;
-    left: 80px
-    
+    left: 80px;
+    bottom:40px;
+}
+
+.reset{
+    background-color: black;
+    color: white;
+    padding: 2px 4px;
+    cursor: pointer;
+    font-size: 16px;
+    position: relative;
+    left: 200px;
+}
+
+.mozi{
+    font-size: 20px;
 }
